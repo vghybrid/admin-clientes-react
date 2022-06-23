@@ -1,3 +1,36 @@
 {
-    "clientes": []
+  "clientes": [
+    {
+      "nombre": "Anderson",
+      "empresa": "T-EX",
+      "email": "correo@correo.com",
+      "telefono": "2615547851",
+      "notas": "Esta es una prueba de la API",
+      "id": 1
+    },
+    {
+      "nombre": "Sarah",
+      "empresa": "Sarah Diseños",
+      "email": "sarah@gmail.com",
+      "telefono": "256987413",
+      "notas": "Sarah la más linda de todas, me pide hacer una cotización de toner.",
+      "id": 2
+    },
+    {
+      "nombre": "Sarah",
+      "empresa": "Sarah Diseños",
+      "email": "sarah@gmail.com",
+      "telefono": "256987413",
+      "notas": "Sarah la más linda de todas, me pide hacer una cotización de toner.",
+      "id": 3
+    },
+    {
+      "nombre": "Cesar ",
+      "empresa": "Sarah Diseños",
+      "email": "correo@correo.com",
+      "telefono": "2615547851",
+      "notas": "Es un trabajador de Sarah Diseños.",
+      "id": 4
+    }
+  ]
 }
